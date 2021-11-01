@@ -1,1 +1,1 @@
-# c-26.wh
+# project-C26-template
